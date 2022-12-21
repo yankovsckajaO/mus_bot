@@ -1,7 +1,7 @@
 # mus_bot
-bot for a learning notes
-there are 4 mini games in this bot
-first game show cards with notes and its name
-second game show rebus and user  must insert the missing note
-the third game show only notes withouth names and user call name
-the fourth - final game show piece of music and finally user can listen to music or play the music
+bot for a learning notes.
+there are 4 mini games in this bot.
+the first play shows the note and its name.
+the second game makes a rebus and waits for the user to select a note to insert into the rebus.
+the third game only shows untitled notes. the user must select the correct name.
+the fourth final game shows an excerpt from a piece of music ... as a result, the user can listen to the piece in its entirety or perform it himself.
